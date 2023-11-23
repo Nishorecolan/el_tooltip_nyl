@@ -1,0 +1,1 @@
+enum NYLTooltipStatus { showing, hidden }
